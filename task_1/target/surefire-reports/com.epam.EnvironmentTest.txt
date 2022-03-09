@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
-Test set: com.epam.GoogleTest
+Test set: com.epam.EnvironmentTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 36.579 sec <<< FAILURE! - in com.epam.GoogleTest
-openSearchPage(com.epam.GoogleTest)  Time elapsed: 35.298 sec  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 36.454 sec <<< FAILURE! - in com.epam.EnvironmentTest
+openSearchPage(com.epam.EnvironmentTest)  Time elapsed: 35.386 sec  <<< FAILURE!
 org.openqa.selenium.WebDriverException: Unable to parse remote response: Unknown error
 	at org.openqa.selenium.json.JsonInput.peek(JsonInput.java:122)
 	at org.openqa.selenium.json.JsonTypeCoercer.lambda$null$6(JsonTypeCoercer.java:140)
@@ -20,5 +20,5 @@ org.openqa.selenium.WebDriverException: Unable to parse remote response: Unknown
 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:141)
 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:96)
 	at driver.DriverSingleton.getDriver(DriverSingleton.java:32)
-	at com.epam.GoogleTest.openSearchPage(GoogleTest.java:15)
+	at com.epam.EnvironmentTest.openSearchPage(EnvironmentTest.java:15)
 
