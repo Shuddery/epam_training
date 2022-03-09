@@ -3,16 +3,17 @@ package com.epam;
 import driver.DriverSingleton;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
+import service.TestDataReader;
 
-public class GoogleTest {
+public class EnvironmentTest {
 
-    final String GOOGLE_URL = "https://www.google.com/";
+    private final static String TESTDATA_SEARCH = "testdata.search";
 
     @Test
-    public void openGoogleSearchPage() {
+    public void openSearchPageTest() {
 
         WebDriver driver = DriverSingleton.getDriver();
-        driver.get(GOOGLE_URL);
+        driver.get(TestDataReader.getTestData(TESTDATA_SEARCH));
         DriverSingleton.closeDriver();
     }
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.epam.GoogleTest" time="35.298" tests="1" errors="0" skipped="0" failures="1">
+<testsuite name="com.epam.EnvironmentTest" time="35.386" tests="1" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="15.0.1+9-18"/>
@@ -60,7 +60,7 @@
     <property name="sun.stdout.encoding" value="cp866"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="openSearchPage" classname="com.epam.GoogleTest" time="35.298">
+  <testcase name="openSearchPage" classname="com.epam.EnvironmentTest" time="35.386">
     <failure message="Unable to parse remote response: Unknown error" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: Unable to parse remote response: Unknown error
 	at org.openqa.selenium.json.JsonInput.peek(JsonInput.java:122)
 	at org.openqa.selenium.json.JsonTypeCoercer.lambda$null$6(JsonTypeCoercer.java:140)
@@ -78,15 +78,15 @@
 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:141)
 	at org.openqa.selenium.edge.EdgeDriver.<init>(EdgeDriver.java:96)
 	at driver.DriverSingleton.getDriver(DriverSingleton.java:32)
-	at com.epam.GoogleTest.openSearchPage(GoogleTest.java:15)
+	at com.epam.EnvironmentTest.openSearchPage(EnvironmentTest.java:15)
 ]]></failure>
     <system-out><![CDATA[Configuring TestNG with: TestNG652Configurator
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-[13:24:49.394] - Listening on http://127.0.0.1:24371/ 
-[13:24:49.396] - Listening on http://[::1]:24371/ 
+[13:27:01.739] - Listening on http://127.0.0.1:47366/ 
+[13:27:01.740] - Listening on http://[::1]:47366/ 
 ]]></system-err>
   </testcase>
 </testsuite>

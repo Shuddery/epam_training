@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7976ad4-2248-4b76-8ec2-86423609ea8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../webdriver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver/src/main/java/driver/DriverSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver/src/main/java/driver/DriverSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver/src/main/resources/testng-smoke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver/src/main/resources/testng-smoke.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver/src/test/java/KiwiBookingPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver/src/test/java/KiwiBookingPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver/src/test/java/KiwiHomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver/src/test/java/KiwiHomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../webdriver/src/test/java/KiwiResultsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../webdriver/src/test/java/KiwiResultsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/GoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/EnvironmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driver/DriverSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/DriverSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.epam.GoogleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.epam.GoogleTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.epam.GoogleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.epam.GoogleTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.epam.GoogleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.epam.GoogleTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/GoogleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../telegramBot.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="268hGXSLVyy01EpEDqdW6NMH9Bd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,24 +55,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bobr_\OneDrive\Рабочий стол\epam_training\task_1\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="driver" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,6 +84,9 @@
       <option name="presentableId" value="Default" />
       <updated>1646811044148</updated>
       <workItem from="1646811045342" duration="1326000" />
+      <workItem from="1646817582444" duration="1728000" />
+      <workItem from="1646819594034" duration="4702000" />
+      <workItem from="1646824473984" duration="2000" />
     </task>
     <servers />
   </component>
@@ -82,5 +103,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

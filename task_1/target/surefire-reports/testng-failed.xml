@@ -3,11 +3,11 @@
 <suite thread-count="1" name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="1" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="com.epam.GoogleTest">
+      <class name="com.epam.EnvironmentTest">
         <methods>
-          <include name="openGoogleSearchPage"/>
+          <include name="openSearchPage"/>
         </methods>
-      </class> <!-- com.epam.GoogleTest -->
+      </class> <!-- com.epam.EnvironmentTest -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->

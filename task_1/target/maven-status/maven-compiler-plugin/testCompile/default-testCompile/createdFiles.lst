@@ -1,2 +1,2 @@
-driver\DriverSingleton.class
-com\epam\GoogleTest.class
+com\epam\BubbleSortTest.class
+com\epam\EnvironmentTest.class
